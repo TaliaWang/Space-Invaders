@@ -20,3 +20,9 @@ IMAGES AND SOUNDS
 - Created sounds for "Congratulations, you win!" and "Game over!"
 - Composed background music
 
+GAME SCREENSHOTS
+----------------
+![Screen Shot 2021-08-16 at 4 11 58 PM](https://user-images.githubusercontent.com/55068560/129623768-efa1cdf8-a9a9-4c4e-92bb-1b51065dc7c3.png)
+![Screen Shot 2021-08-16 at 4 14 13 PM](https://user-images.githubusercontent.com/55068560/129624042-9e9ebb14-f9a3-441e-8091-136a76e1930e.png)
+
+
